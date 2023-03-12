@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Q_Self">
         <activity
+            android:name=".MakeqActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
