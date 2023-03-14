@@ -57,7 +57,10 @@
         android:id="@+id/btn_createQ"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="30dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="60dp"
+        android:layout_marginBottom="30dp"
         android:text="문제 생성" />
 
 </LinearLayout>

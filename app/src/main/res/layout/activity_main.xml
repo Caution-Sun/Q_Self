@@ -14,7 +14,7 @@
         android:layout_gravity="center"
         android:layout_marginTop="100dp"
         android:layout_marginBottom="50dp"
-        android:text="Title"
+        android:text="Q Self"
         android:textAlignment="center"
         android:textSize="60sp"
         android:textStyle="bold" />
@@ -33,7 +33,7 @@
             android:layout_gravity="center"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="Quiz Start" />
+            android:text="Start Quiz" />
 
         <Button
             android:id="@+id/btn_makeQ"
