@@ -10,7 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Q_Self">
         <activity
-            android:name=".MakeqActivity"
+            android:name=".MakeSbjQActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SelectQActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MakeObjQActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
